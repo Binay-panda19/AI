@@ -1,8 +1,8 @@
-# 🧠 Deep Learning
+# 🧠 Artificial Intelligence
 
-A structured repository documenting my journey into **Deep Learning**, from the fundamentals of neural networks to advanced architectures and real-world projects.
+A structured repository documenting my journey into **Artificial Intelligence**, from the fundamentals of neural networks to advanced architectures and real-world projects.
 
-This repository contains concepts, implementations, experiments, notebooks, and projects built while learning and practicing Deep Learning.
+This repository contains concepts, implementations, experiments, notebooks, and projects built while learning and practicing Artificial Intelligence.
 
 ## 📚 Topics Covered
 
@@ -74,8 +74,8 @@ Each topic is accompanied by code, experiments, and notes wherever possible.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Deep-Learning.git
-cd Deep-Learning
+git clone https://github.com/YOUR_USERNAME/AI.git
+cd AI
 ```
 
 Create a virtual environment:
@@ -113,7 +113,7 @@ jupyter notebook
 * [x] CNN
 * [x] RNN
 * [x] LSTM / GRU
-* [ ] Transformers
+* [x] Transformers
 * [ ] Computer Vision
 * [x] NLP
 * [ ] Advanced Deep Learning
