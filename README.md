@@ -138,13 +138,13 @@ jupyter notebook
 - [x] LSTM / GRU
 - [x] Transformers
 - [x] NLP Fundamentals
-- [ ] Advanced Computer Vision
-- [ ] Generative AI
-- [ ] Large Language Models (LLMs)
-- [ ] Retrieval-Augmented Generation (RAG)
-- [ ] LangChain & LangGraph
-- [ ] AI Agents
-- [ ] Advanced AI Projects
+- [x] Advanced Computer Vision
+- [x] Generative AI
+- [x] Large Language Models (LLMs)
+- [x] Retrieval-Augmented Generation (RAG)
+- [x] LangChain & LangGraph
+- [x] AI Agents
+- [] Advanced AI Projects
 
 ## 🎯 Goals
 
