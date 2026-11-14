@@ -1,73 +1,97 @@
 # 🧠 Artificial Intelligence
 
-A structured repository documenting my journey into **Artificial Intelligence**, from the fundamentals of neural networks to advanced architectures and real-world projects.
+A structured repository documenting my journey into **Artificial Intelligence**, exploring concepts ranging from Machine Learning and Deep Learning to Generative AI and modern AI architectures.
 
-This repository contains concepts, implementations, experiments, notebooks, and projects built while learning and practicing Artificial Intelligence.
+This repository contains theoretical concepts, practical implementations, experiments, Jupyter notebooks, and real-world projects developed while learning and exploring the field of AI.
 
 ## 📚 Topics Covered
 
-### Fundamentals
+### 1. Python & Mathematical Foundations
+- Python for AI
+- NumPy
+- Pandas
+- Matplotlib & Seaborn
+- Linear Algebra
+- Probability & Statistics
+- Calculus Fundamentals
 
-* Neural Networks
-* Perceptron
-* Activation Functions
-* Loss Functions
-* Forward Propagation
-* Backpropagation
-* Gradient Descent
-* Optimizers
-* Overfitting & Underfitting
-* Regularization
-* Batch Normalization
-* Dropout
+### 2. Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Regression Algorithms
+- Classification Algorithms
+- Decision Trees & Random Forests
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Clustering Algorithms
+- Feature Engineering
+- Model Evaluation & Optimization
+- Scikit-learn
 
-### Neural Network Architectures
+### 3. Deep Learning
+- Neural Networks
+- Perceptron
+- Activation & Loss Functions
+- Forward Propagation
+- Backpropagation
+- Gradient Descent & Optimizers
+- Regularization & Dropout
+- CNN, RNN, LSTM & GRU
+- Autoencoders
+- Transformers
 
-* Feedforward Neural Networks (FNN)
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* LSTM
-* GRU
-* Autoencoders
-* Transformers
+### 4. Natural Language Processing (NLP)
+- Text Preprocessing
+- Tokenization
+- Word Embeddings
+- Word2Vec
+- Sequence Models
+- Attention Mechanism
+- Transformers
+- Text Classification
+- Sentiment Analysis
 
-### Computer Vision
+### 5. Computer Vision
+- Image Processing
+- Image Classification
+- Convolution & Pooling
+- CNN Architectures
+- Transfer Learning
+- Data Augmentation
+- Object Detection
+- Image Segmentation
 
-* Image Classification
-* Convolution & Pooling
-* Transfer Learning
-* Data Augmentation
-* Object Detection
-* Image Preprocessing
+### 6. Generative AI & Large Language Models
+- Introduction to Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- AI Agents
+- Fine-tuning & Model Optimization
 
-### NLP
-
-* Text Preprocessing
-* Word Embeddings
-* Sequence Models
-* RNN/LSTM for NLP
-* Attention Mechanism
-* Transformers
-
-### Tools & Frameworks
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* PyTorch
-* TensorFlow / Keras
-* Jupyter Notebook
-
+### 7. Tools & Frameworks
+- Python
+- NumPy & Pandas
+- Matplotlib & Seaborn
+- Scikit-learn
+- TensorFlow / Keras
+- PyTorch
+- Hugging Face
+- LangChain & LangGraph
+- Jupyter Notebook
+- Git & GitHub
 
 ## 🚀 Learning Approach
 
-My approach is focused on learning concepts theoretically and then implementing them practically.
+My approach focuses on understanding theoretical concepts and translating them into practical implementations.
 
-**Learn → Implement → Experiment → Build Projects**
+**Learn → Understand → Implement → Experiment → Build Projects**
 
-Each topic is accompanied by code, experiments, and notes wherever possible.
+Each topic includes implementations, experiments, notebooks, and notes wherever possible.
 
 ## 🛠️ Setup
 
@@ -90,7 +114,7 @@ Activate it on Windows:
 venv\Scripts\activate
 ```
 
-Install the dependencies:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -102,58 +126,61 @@ Start Jupyter Notebook:
 jupyter notebook
 ```
 
-## 📈 Progress
+## 📈 Learning Progress
 
-* [x] Python fundamentals
-* [x] NumPy
-* [x] Pandas
-* [x] Machine Learning fundamentals
-* [x] Neural Networks
-* [x] Deep Neural Networks
-* [x] CNN
-* [x] RNN
-* [x] LSTM / GRU
-* [x] Transformers
-* [ ] Computer Vision
-* [x] NLP
-* [ ] Advanced Deep Learning
-* [ ] End-to-end Deep Learning projects
+- [x] Python Fundamentals
+- [x] NumPy & Pandas
+- [x] Machine Learning Fundamentals
+- [x] Neural Networks
+- [x] Deep Neural Networks
+- [x] CNN
+- [x] RNN
+- [x] LSTM / GRU
+- [x] Transformers
+- [x] NLP Fundamentals
+- [ ] Advanced Computer Vision
+- [ ] Generative AI
+- [ ] Large Language Models (LLMs)
+- [ ] Retrieval-Augmented Generation (RAG)
+- [ ] LangChain & LangGraph
+- [ ] AI Agents
+- [ ] Advanced AI Projects
 
 ## 🎯 Goals
 
-* Build a strong foundation in Deep Learning
-* Understand how neural networks work internally
-* Implement architectures from scratch where possible
-* Learn PyTorch and modern Deep Learning workflows
-* Build practical AI projects
-* Explore Computer Vision and NLP
-* Develop a portfolio of Deep Learning projects
+- Develop a strong foundation in Artificial Intelligence.
+- Understand Machine Learning and Deep Learning algorithms.
+- Explore modern Generative AI technologies.
+- Understand LLMs and their underlying architectures.
+- Build RAG-based applications and AI agents.
+- Gain hands-on experience with modern AI frameworks.
+- Develop practical, end-to-end AI projects.
 
 ## 📌 Projects
 
-Projects will be added as I progress through the learning journey.
+Some areas of planned and ongoing projects include:
 
-Some planned areas include:
-
-* Image Classification
-* Handwritten Digit Recognition
-* CNN-based Image Classifier
-* Sentiment Analysis
-* Object Detection
-* Neural Network from Scratch
-* Transfer Learning Projects
-* Transformer-based Applications
+- Machine Learning Prediction Models
+- Neural Network from Scratch
+- Handwritten Digit Recognition
+- Image Classification
+- Sentiment Analysis
+- NLP Applications
+- LLM-powered Applications
+- Retrieval-Augmented Generation Systems
+- AI Agents
+- End-to-End AI Applications
 
 ## 📖 Learning Resources
 
-This repository contains my own implementations, experiments, and notes based on the resources I use while learning Deep Learning.
+This repository includes my own implementations, experiments, and notes based on courses, documentation, tutorials, and other learning resources.
 
 ## ⭐ Future Plans
 
-As I progress, this repository will evolve from basic implementations into a collection of **practical Deep Learning projects and experiments**.
+This repository will continuously evolve as I explore new concepts, experiment with AI technologies, and build practical applications.
 
-The ultimate goal is to move from understanding individual concepts to building complete AI systems.
+The ultimate goal is to progress from understanding the fundamentals of AI to designing and developing intelligent, real-world AI systems.
 
 ---
 
-**Learning Deep Learning one concept, one experiment, and one model at a time. 🧠**
+**Learning Artificial Intelligence one concept, one experiment, and one project at a time. 🧠**
